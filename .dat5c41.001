@@ -1,0 +1,10 @@
+self.frame
+self.backgroundColor = UIColor.red
+self
+self.frame
+self
+self.frame
+UIScreen.mainScreen.bounds
+self.backgroundColor = UIColor.redColor
+UIScreen.backgroundColor = UIColor.redColor
+UIScreen.mainScreen.backgroundColor = UIColor.redColor
